@@ -1,1 +1,3 @@
-# soph-yang.github.io
+# Welcome
+
+Go to https://soph-yang.github.io/hw1.html
